@@ -1,0 +1,45 @@
+# Ignore hidden files and directories
+.*
+!.gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore build directories
+dist/
+build/
+out/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore Python specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore macOS specific files
+.AppleDouble
+.LSOverride
+
+# Ignore Windows specific files
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore Linux specific files
+*~

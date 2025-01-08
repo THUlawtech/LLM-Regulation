@@ -4,6 +4,7 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 
 ![LLM Risks](img/risks.png){:height="50%" width="50%"}
+<img src="img/risks.png" width = "50%" height = "50%" alt="LLM Risks" align=center />
 
 ---
 

@@ -2,8 +2,6 @@
 
 Below is a brief overview of 18 identified risks of LLMs, grouped by four main categories: **Training Data**, **The LLM Itself**, **Generated Content**, and **Others**. 
 
-
-![LLM Risks](img/risks.png){:height="50%" width="50%"}
 <img src="img/risks.png" width = "50%" height = "50%" alt="LLM Risks" align=center />
 
 ---
@@ -40,8 +38,6 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
    - **Source**:  
      - []()
 
----
-
 ## B. The LLM Itself
 
 6. **Poor Interpretability**  
@@ -75,8 +71,6 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
    - **Source**:  
      - [On the Dangers of Stochastic Parrots (Bender et al., 2021)](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
----
-
 ## C. Generated Content
 
 11. **Content Safety Risk**  
@@ -109,7 +103,6 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
    - **Source**:  
      - [Chatbot therapy is risky. It’s also not useless. (Vox, 2023)](https://www.vox.com/technology/2023/12/14/24000435/chatbot-therapy-risks-and-potential)
 
----
 
 ## D. Others
 
@@ -130,8 +123,6 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
    - **Example**:   
    - **Source**:  
      - []()
-
----
 
 ### **Summary**
 LLMs present various risks categorized into four main areas: Training Data, The LLM Itself, Generated Content, and Other Factors. The refinement of risks can provide clear guidance for risk governance and serves as the foundation for managing LLMs.

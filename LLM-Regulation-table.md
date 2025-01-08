@@ -1,6 +1,6 @@
 |Name|Type|Country/Region|Date|发文单位|source|Risks|Risk Perspective|父记录|
 |---|---|---|---|---|---|---|---|---|
-|Interim Measures for the Administration of Generative Artificial Intelligence Services|Laws and Regulations - Effect|🇨🇳 China|2023-08-15 00:00:00|The CAC and other six department|[link](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)|3,2,14|AI 风险来源|nan|
+|[Interim Measures for the Administration of Generative Artificial Intelligence Services](data/生成式人工智能服务管理暂行办法.pdf)|Laws and Regulations - Effect|🇨🇳 China|2023-08-15 00:00:00|The CAC and other six department|[link](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)|3,2,14|AI 风险来源|nan|
 |Practice Guidelines for Cybersecurity Standards - Identification Methods for Contents of Generative Artificial Intelligence Services|Standards/Guidelines|🇨🇳 China|2024-08-25 00:00:00|TC260|[link](https://www.tc260.org.cn/front/postDetail.html?id=20230825190345)|14|AI 风险来源|nan|
 |TC260 - 003 Basic Security Requirements for Generative Artificial Intelligence Service|Standards/Guidelines|🇨🇳 China|2024-03-01 00:00:00|TC260|[link](https://www.tc260.org.cn/front/postDetail.html?id=20240301164054)|4,3,13,11,17,2|AI 风险来源, AI 生命周期|nan|
 |Artificial intelligence—Code of practice for data labeling of machine learning|Standards/Guidelines|🇨🇳 China|2023-12-01 00:00:00|TC28|[link](https://std.samr.gov.cn/gb/search/gbDetailed?id=FC816D04FEB462EBE05397BE0A0AD5FA)|3|AI 风险来源|nan|

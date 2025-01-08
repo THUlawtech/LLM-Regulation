@@ -3,7 +3,7 @@
 Below is a brief overview of 18 identified risks of LLMs, grouped by four main categories: **Training Data**, **The LLM Itself**, **Generated Content**, and **Others**. 
 
 
-![LLM Risks](img/risks.png)
+![LLM Risks](img/risks.png){:height="50%" width="50%"}
 
 ---
 

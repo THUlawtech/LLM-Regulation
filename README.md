@@ -2,11 +2,11 @@
 
 ## Content
 
-- [AI for Law](#AI for Law)
-  - [Legal LLM History](#Legal LLM History)
-- [Law for AI](#Law for AI)
-  - [Keywords Convention](#Keywords Convention)
-  - [AI Risk Overview](#AI Risk Overview)
+- [AI for Law](#aI-for-law)
+  - [Legal LLM History](#legal-llm-history)
+- [Law for AI](#law-for-ai)
+  - [Keywords Convention](#keywords-convention)
+  - [AI Risk Overview](#ai-risk-overview)
   - [Regulations](#Regulations)
 
 

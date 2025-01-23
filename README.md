@@ -2,12 +2,22 @@
 
 ## Content
 
-- [AI for Law](#aI-for-law)
-  - [Legal LLM History](#legal-llm-history)
-- [Law for AI](#law-for-ai)
-  - [Keywords Convention](#keywords-convention)
-  - [AI Risk Overview](#ai-risk-overview)
-  - [Regulations](#Regulations)
+- [LLM Regulation](#llm-regulation)
+  - [Content](#content)
+  - [AI for Law](#ai-for-law)
+    - [Legal LLM History](#legal-llm-history)
+  - [Law for AI](#law-for-ai)
+    - [AI Risk Overview](#ai-risk-overview)
+      - [A. Training Data](#a-training-data)
+      - [B. The LLM Itself](#b-the-llm-itself)
+      - [C. Generated Content](#c-generated-content)
+      - [D. Others](#d-others)
+      - [**Summary**](#summary)
+    - [AI Governance related Documents](#ai-governance-related-documents)
+    - [AI Related Lawsuits](#ai-related-lawsuits)
+      - [Copyright Infringement of Training Data](#copyright-infringement-of-training-data)
+      - [Copyrightability of Generated Content](#copyrightability-of-generated-content)
+      - [Personal Data Infringement of Training Data](#personal-data-infringement-of-training-data)
 
 
 ## AI for Law
@@ -17,15 +27,7 @@
 ![legalLLM_tree](img/legalLLM_tree.png)
 
 ## Law for AI
-This is an overview of AI risks, focusing on the perspective of the source of risks.
-
-### Keywords Convention
-
-![](https://img.shields.io/badge/Chinese-red) The country that formulates this law or regulation.
-
-![](https://img.shields.io/badge/type-International%20guidelines-8A2BE2) Type of regulation.
-
-![](https://img.shields.io/badge/Training%20data-green) Areas of risk.
+This part include: AI Risk Overview, AI Government related Documents and AI Related Lawsuits.
 
 ### AI Risk Overview
 Below is a brief overview of 18 identified risks of LLMs, grouped by four main categories: **Training Data**, **The LLM Itself**, **Generated Content**, and **Others**. 
@@ -155,7 +157,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 #### **Summary**
 LLMs present various risks categorized into four main areas: Training Data, The LLM Itself, Generated Content, and Other Factors. The refinement of risks can provide clear guidance for risk governance and serves as the foundation for managing LLMs.
 
-### Regulations
+### AI Governance related Documents
+We reviewed over 50+ global legal documents concerning LLMs (including regulations, standards, guidelines, policy documents, research reports, forum initiatives, and other related materials) and mapped above 18 risks to the these documents.
+
 |Name|Type|Country/Region|Date|Authority/Organization|source|Risks|
 |---|---|---|---|---|---|---|
 |[Interim Measures for the Administration of Generative Artificial Intelligence Services](PDFs/生成式人工智能服务管理暂行办法.pdf)|Laws and Regulations - Effect|🇨🇳 China|2023-08-15|The CAC and other six department|[link](https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)|3,2,14|AI 风险来源|nan|
@@ -217,3 +221,12 @@ LLMs present various risks categorized into four main areas: Training Data, The 
 |[Fundamental Law on the Development of Artificial Intelligence and the Establishment of Trust ](PDFs/Fundamental_Law_on_the_Development_of_Artificial_Intelligence_and_the_Establishment_of_Trust.pdf)|Laws and Regulations - Effect|🇰🇷 Korea|2024-12-26|NAK|[link](https://www.gov.kr/portal/ntnadmNews/4124183)|8,9,10,11,14,1,2,5,12,15,18|AI 风险来源, AI 应用场景, AI 生命周期|
 |[First Draft—GeneralPurpose AI Code of Practice](PDFs/First_Draft_GeneralPurpose_AI_Code_of_Practice.pdf)|Laws and Regulations - Drafted/Not Effect|🇪🇺 EU|2024-11-14|European commission|[link](https://digital-strategy.ec.europa.eu/en/library/second-draft-general-purpose-ai-code-practice-published-written-independent-experts)|5,11,14,8,9,10,1,2|AI 风险来源, AI 应用场景, AI 生命周期|
 |[Fundamental Law on Artificial Intelligence ](PDFs/人工智慧基本法草案總說明及條文.pdf)|Laws and Regulations - Drafted/Not Effect|🇨🇳 China|2024-07-15|TAIWAN, CHINA|[link](https://join.gov.tw/policies/detail/4c714d85-ab9f-4b17-8335-f13b31148dc4)|5,2,8,9,11,12,14,7,15|AI 风险来源, AI 应用场景|
+
+### AI Related Lawsuits
+We sorted out some cases related to the core legal issues in the article, mainly involving cases related to copyright and personal data infringement of training data, and the copyrightability of generated content.
+
+#### Copyright Infringement of Training Data
+
+#### Copyrightability of Generated Content
+
+#### Personal Data Infringement of Training Data

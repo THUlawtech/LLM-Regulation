@@ -250,3 +250,4 @@ We sorted out some cases related to the core legal issues in the article, mainly
 #### Personal Data Infringement of Training Data
 |Name|Time|Source|
 |---|---|---|
+|ORG coplain to the ICO about Meta|2024.07|[link](https://www.openrightsgroup.org/publications/complaint-to-the-ico-about-meta/)|

@@ -226,7 +226,11 @@ We reviewed over 50+ global legal documents concerning LLMs (including regulatio
 We sorted out some cases related to the core legal issues in the article, mainly involving cases related to copyright and personal data infringement of training data, and the copyrightability of generated content.
 
 #### Copyright Infringement of Training Data
+|Name|Time|Source|
+|---|---|---|
 
 #### Copyrightability of Generated Content
 
 #### Personal Data Infringement of Training Data
+|Name|Time|Source|
+|---|---|---|

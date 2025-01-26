@@ -245,7 +245,6 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |The Center for Investigative Reporting v.OpenAI|2024.06|[link](https://www.courtlistener.com/docket/68892274/the-center-for-investigative-reporting-inc-v-openai-inc/)|
 |Concord Music Group v. Anthropic|2024.06|[link](https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/)|
 |Bartz v. Anthropic|2024.08|[link](https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/)|
-|Millette v. OpenAI|2024.08|[link](https://www.courtlistener.com/docket/69012680/millette-v-openai-inc/)|
 
 #### Copyrightability of Generated Content
 
@@ -253,3 +252,8 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Name|Time|Source|
 |---|---|---|
 |ORG coplain to the ICO about Meta|2024.07|[link](https://www.openrightsgroup.org/publications/complaint-to-the-ico-about-meta/)|
+
+#### Others
+|Name|Time|Source|
+|---|---|---|
+|Millette v. OpenAI|2024.08|[link](https://www.courtlistener.com/docket/69012680/millette-v-openai-inc/)|

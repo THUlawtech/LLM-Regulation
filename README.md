@@ -231,6 +231,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Thomson Reuters Enterprise Centre GmbH v. ROSS Intelligence|2020.05|[link](https://casetext.com/case/thomson-reuters-enter-ctr-gmbh-v-ross-intelligence-inc-1/)|
 |J. DOE v. Github|2022.11|[link](https://regmedia.co.uk/2024/07/08/github_copilot_dismiss.pdf)|
 |Anderson, McKernan, Ortiz, et al. v. AI providers Stability.ai, DeviantArt, and Midjourney|2023.01|[link](https://ecf.ncd.uscourts.gov/cgi-bin/related.py?case=3:23-cv-00201)|
+|Getty Images.v.Stability AI|2023.05|[link](https://www.courtlistener.com/docket/66788385/getty-images-us-inc-v-stability-ai-inc/)|
 
 #### Copyrightability of Generated Content
 

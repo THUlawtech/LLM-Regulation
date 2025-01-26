@@ -228,8 +228,8 @@ We sorted out some cases related to the core legal issues in the article, mainly
 #### Copyright Infringement of Training Data
 |Name|Time|Source|
 |---|---|---|
-|Thomson Reuters Enterprise Centre GmbH诉ROSS Intelligence|2020.05|[link](https://casetext.com/case/thomson-reuters-enter-ctr-gmbh-v-ross-intelligence-inc-1/)|
-|J. DOE诉 Github|2022.11|[link](https://regmedia.co.uk/2024/07/08/github_copilot_dismiss.pdf)|
+|Thomson Reuters Enterprise Centre GmbH v. ROSS Intelligence|2020.05|[link](https://casetext.com/case/thomson-reuters-enter-ctr-gmbh-v-ross-intelligence-inc-1/)|
+|J. DOE v. Github|2022.11|[link](https://regmedia.co.uk/2024/07/08/github_copilot_dismiss.pdf)|
 
 #### Copyrightability of Generated Content
 

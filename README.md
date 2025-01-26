@@ -241,6 +241,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Zhang v. Google, Alphabet|2024.04|[link](https://www.courtlistener.com/docket/68477933/zhang-v-google-llc/)|
 |Makkai v. Databricks, Mosaic ML|2023.05|[link](https://www.courtlistener.com/docket/68497293/makkai-v-databricks-inc/)|
 |Dubus v. NVIDIA|2024.05|[link](https://www.courtlistener.com/docket/68497292/dubus-v-nvidia-corporation/)|
+|UMG Recordings v.Suno|2024.06|[link](https://www.courtlistener.com/docket/68878608/umg-recordings-inc-v-suno-inc/)|
 
 #### Copyrightability of Generated Content
 

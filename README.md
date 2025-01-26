@@ -235,6 +235,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Richard Kadrey v. Meta Platforms|2023.07|[link](https://www.documentcloud.org/documents/23869675-kadrey-meta-complaint/)|
 |Authors Guild v. OpenAI|2023.09|[link](https://www.courtlistener.com/docket/69459176/authors-guild-v-openai-inc/)|
 |Huckabee v. Bloomberg|2023.10|[link](https://www.courtlistener.com/docket/67890942/75/1/huckabee-v-meta-platforms-inc/)|
+|The NEW York Times Company v. OpenAI|2023.12|[link](https://www.pacermonitor.com/public/case/51820670/The_New_York_Times_Company_v_MICROSOFT_CORPORATION_et_al)|
 
 #### Copyrightability of Generated Content
 

@@ -243,6 +243,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Dubus v. NVIDIA|2024.05|[link](https://www.courtlistener.com/docket/68497292/dubus-v-nvidia-corporation/)|
 |UMG Recordings v.Suno|2024.06|[link](https://www.courtlistener.com/docket/68878608/umg-recordings-inc-v-suno-inc/)|
 |The Center for Investigative Reporting v.OpenAI|2024.06|[link](https://www.courtlistener.com/docket/68892274/the-center-for-investigative-reporting-inc-v-openai-inc/)|
+|Concord Music Group v. Anthropic|2024.06|[link](https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/)|
 
 #### Copyrightability of Generated Content
 

@@ -239,6 +239,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Raw Story Media v. OpenAI|2023.03|[link](https://www.courtlistener.com/docket/68290709/raw-story-media-inc-v-openai-inc/)|
 |Intercept Media v. OpenAI, Microsoft|2023.02|[link](https://www.courtlistener.com/docket/68290804/the-intercept-media-inc-v-openai-inc/)|
 |Zhang v. Google, Alphabet|2024.04|[link](https://www.courtlistener.com/docket/68477933/zhang-v-google-llc/)|
+|Makkai v. Databricks, Mosaic ML|2023.05|[link](https://www.courtlistener.com/docket/68497293/makkai-v-databricks-inc/)|
 
 #### Copyrightability of Generated Content
 

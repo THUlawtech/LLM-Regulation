@@ -233,6 +233,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Anderson, McKernan, Ortiz, et al. v. AI providers Stability.ai, DeviantArt, and Midjourney|2023.01|[link](https://ecf.ncd.uscourts.gov/cgi-bin/related.py?case=3:23-cv-00201)|
 |Getty Images.v.Stability AI|2023.05|[link](https://www.courtlistener.com/docket/66788385/getty-images-us-inc-v-stability-ai-inc/)|
 |Richard Kadrey v. Meta Platforms|2023.07|[link](https://www.documentcloud.org/documents/23869675-kadrey-meta-complaint/)|
+|Authors Guild v. OpenAI|2023.09|[link](https://www.courtlistener.com/docket/69459176/authors-guild-v-openai-inc/)|
 
 #### Copyrightability of Generated Content
 

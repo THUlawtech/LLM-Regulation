@@ -237,6 +237,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Huckabee v. Bloomberg|2023.10|[link](https://www.courtlistener.com/docket/67890942/75/1/huckabee-v-meta-platforms-inc/)|
 |The NEW York Times Company v. OpenAI|2023.12|[link](https://www.pacermonitor.com/public/case/51820670/The_New_York_Times_Company_v_MICROSOFT_CORPORATION_et_al)|
 |Raw Story Media v. OpenAI|2023.03|[link](https://casetext.com/case/raw-story-media-inc-v-openai-inc-2)|
+|Intercept Media v. OpenAI，Microsoft|2023.02|[link](https://www.courtlistener.com/docket/68290804/the-intercept-media-inc-v-openai-inc/)|
 
 #### Copyrightability of Generated Content
 

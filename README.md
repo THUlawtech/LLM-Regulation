@@ -231,7 +231,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Thomson Reuters Enterprise Centre GmbH v. ROSS Intelligence|2020.05|[link](https://www.courtlistener.com/docket/17131648/thomson-reuters-enterprise-centre-gmbh-v-ross-intelligence-inc/)|
 |J. DOE v. Github|2022.11|[link](https://www.courtlistener.com/docket/65669506/doe-1-v-github-inc/)|
 |Anderson, McKernan, Ortiz, et al. v. AI providers Stability.ai, DeviantArt, and Midjourney|2023.01|[link](https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd/)|
-|Getty Images.v.Stability AI|2023.05|[link](https://www.courtlistener.com/docket/66788385/getty-images-us-inc-v-stability-ai-inc/)|
+|Getty Images v. Stability AI|2023.05|[link](https://www.courtlistener.com/docket/66788385/getty-images-us-inc-v-stability-ai-inc/)|
 |Richard Kadrey v. Meta Platforms|2023.07|[link](https://www.courtlistener.com/docket/67569326/kadrey-v-meta-platforms-inc/)|
 |Authors Guild v. OpenAI|2023.09|[link](https://www.courtlistener.com/docket/69459176/authors-guild-v-openai-inc/)|
 |Huckabee v. Bloomberg|2023.10|[link](https://www.courtlistener.com/docket/67890942/75/1/huckabee-v-meta-platforms-inc/)|

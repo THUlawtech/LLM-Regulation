@@ -106,9 +106,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 11. **Content Safety Risk**  
    - **What It Is**: LLMs may generate hate speech, radicalization content, or instructions for violence if prompted or misused.  
-   - **Example**:   
+   - **Example**: Researchers from University College London released a report stating that large language models, including OpenAI's GPT - 3.5, GPT - 4, and Meta's Llama 2, show obvious biases against women in their generated content.  
    - **Source**:  
-     - []()
+     - [Large language models generate biased content, warn researchers(TechXplore, 2024)](https://techxplore.com/news/2024-04-large-language-generate-biased-content.amp)
 
 12. **Data Breach (via LLM)**  
    - **What It Is**: The LLM might inadvertently reveal private or proprietary information it was trained on or that was input by other users.  

@@ -73,9 +73,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 6. **Poor Interpretability**  
    - **What It Is**: Neural networks—especially large ones—are often “black boxes,” making it difficult to explain how they arrive at specific outputs.  
-   - **Example**:   
+   - **Example**: the Black Box Problem in AI poses significant challenges for cybersecurity by creating issues around trust, accountability, ethics, debugging, compliance, and vulnerability to data poisoning. As AI becomes increasingly integrated into critical systems, addressing these challenges is essential.  
    - **Source**:  
-     - []()
+     - [Navigating the AI Black Box Problem(Gibraltar, 2024)](https://gibraltarsolutions.com/blog/navigating-the-ai-black-box-problem/)
 
 7. **Discriminatory (Bias)**  
    - **What It Is**: Discriminatory of LLMs mainly stems from risks at the training data level. In addition, factors such as model design and the training process may also lead to the discriminatory.  

@@ -85,9 +85,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 8. **Low Robustness**  
    - **What It Is**: Small changes or “adversarial” prompts can cause drastic shifts in outputs, meaning the model can fail badly outside typical scenarios.  
-   - **Example**:   
+   - **Example**: The research found that even the slightest perturbation of the prompt, such as adding a space at the end of the prompt, may cause the large language model to change its answer.   
    - **Source**:  
-     - []()
+     - [The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance(Abel et al., 2024)](https://arxiv.org/html/2401.03729v2)
 
 
 9. **Risk of Tampering**  

@@ -18,6 +18,7 @@
       - [Copyright Infringement of Training Data](#copyright-infringement-of-training-data)
       - [Copyrightability of Generated Content](#copyrightability-of-generated-content)
       - [Personal Data Infringement of Training Data](#personal-data-infringement-of-training-data)
+      - [Others](#others)
 
 
 ## AI for Law
@@ -247,11 +248,18 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |Bartz v. Anthropic|2024.08|[link](https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/)|
 
 #### Copyrightability of Generated Content
+|Name|Time|Source|
+|---|---|---|
+|Thaler v. Perlmutter|2023.08|[link](https://www.courtlistener.com/opinion/9421250/thaler-v-perlmutter/?type=o&type=o&q=Thaler+v.+Perlmutter&order_by=score+desc)|
+|The US Copyright Office, Re: Zarya of the Dawn (Registration # VAu001480196)|2023.02|[link](https://www.copyright.gov/docs/zarya-of-the-dawn.pdf)|
+|Shenzhen Tencent v. Shanghai Yingxun - Case No. Y0305MC No.14010(2019.)||[link](https://www.chinacourt.org/article/detail/2021/01/id/5709690.shtml)|
+|Beijing Feilin v. Beijing Baidu - Case No. Y0491MC No.239(2019.04)||[link](https://www1.bjinternetcourt.gov.cn/cac/zw/1556272978673.html)|
+|Li v. Liu - Case No. Y0491MC No.11279(2023)|2023.12|[link](https://www.chinacourt.org/article/detail/2024/02/id/7796864.shtml)|
 
 #### Personal Data Infringement of Training Data
 |Name|Time|Source|
 |---|---|---|
-|ORG coplain to the ICO about Meta|2024.07|[link](https://www.openrightsgroup.org/publications/complaint-to-the-ico-about-meta/)|
+|ORG complain to the ICO about Meta|2024.07|[link](https://www.openrightsgroup.org/publications/complaint-to-the-ico-about-meta/)|
 
 #### Others
 |Name|Time|Source|

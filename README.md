@@ -65,7 +65,7 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 5. **Data Breach**  
    - **What It Is**: Large training sets and their accompanying metadata can be stolen or leaked—especially if cloud storage or annotation platforms are compromised. Please note that the risk mentioned here is different from the data breach in Risk 12. The latter primarily refers to the model's output containing leaked personal information, protected works of others, trade secrets, and similar content.
-   - **Example**:   
+   - **Example**: Wiz Research discovered that when Microsoft's AI researchers were releasing open - source training data on GitHub, due to a misconfigured SAS token, 38 terabytes of private data were accidentally exposed. There are also security risks, and relevant security recommendations were put forward.    
    - **Source**:  
      - [38TB of data accidentally exposed by Microsoft AI researchers(WIZ, 2023)](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 

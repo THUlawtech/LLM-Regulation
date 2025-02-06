@@ -151,9 +151,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 18. **System‐Related Risks**  
     - **What It Is**: LLMs are often deployed as part of larger systems—failure in one component (e.g., cloud servers, network infrastructure) can bring down critical services.  
-    - **Example**:   
+    - **Example**: OWASP has released the top ten vulnerabilities of LLM applications, including prompt injection, insufficient sandboxing, unauthorized code execution, server - side request forgery, over - reliance on LLM - generated content, and insufficient AI alignment, etc.  
     - **Source**:  
-      - []()
+      - [The Dangers of AI: OWASP Releases Top 10 Vulnerabilities for LLM Applications(PantaSecurity, 2023)](https://www.pentasecurity.com/blog/dangers-ai-owasp-top-10-llm/)
 
 #### **Summary**
 LLMs present various risks categorized into four main areas: Training Data, The LLM Itself, Generated Content, and Other Factors. The refinement of risks can provide clear guidance for risk governance and serves as the foundation for managing LLMs.

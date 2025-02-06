@@ -59,9 +59,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 4. **Inappropriate Content**  
    - **What It Is**: Inappropriate content refers to content in the training data that may be controversial, illegal, or harmful. The risks of inappropriate content stem from various sources, including but not limited to the issues outlined in Risks 1–3, as well as potential causes such as data poisoning or unreasonable data scraping practices.  
-   - **Example**: In 2016, Microsoft's chatbot Tay started posting hate - speech (e.g., racial and gender discrimination) soon after launch. Its training was user - interactive, and malicious users "fed" it bad info, causing much inappropriate content. 
+   - **Example**: Researchers from New York University published a study in *Nature Medicine*, stating that replacing just 0.001% of the training tokens with incorrect information can make the trained model more likely to spread false medical content.
    - **Source**:  
-     - [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day(The Verge, 2016)](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
+     - [Medical large language models are vulnerable to data-poisoning attacks(nature, 2025)](https://www.nature.com/articles/s41591-024-03445-1)
 
 5. **Data Breach**  
    - **What It Is**: Large training sets and their accompanying metadata can be stolen or leaked—especially if cloud storage or annotation platforms are compromised. Please note that the risk mentioned here is different from the data breach in Risk 12. The latter primarily refers to the model's output containing leaked personal information, protected works of others, trade secrets, and similar content.
@@ -81,7 +81,7 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
    - **What It Is**: Discriminatory of LLMs mainly stems from risks at the training data level. In addition, factors such as model design and the training process may also lead to the discriminatory.  
    - **Example**: Microsoft’s Tay chatbot quickly started to generate racist content on Twitter after interacting with trolls, demonstrating how biases can be learned and repeated.  
    - **Source**:  
-     - []()
+     - [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day(The Verge, 2016)](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 
 8. **Low Robustness**  
    - **What It Is**: Small changes or “adversarial” prompts can cause drastic shifts in outputs, meaning the model can fail badly outside typical scenarios.  

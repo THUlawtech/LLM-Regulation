@@ -64,10 +64,10 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
      - [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day(The Verge, 2016)](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 
 5. **Data Breach**  
-   - **What It Is**: Large training sets and their accompanying metadata can be stolen or leaked—especially if cloud storage or annotation platforms are compromised. Please note that the risk mentioned here is different from the data breach in Risk 13. The latter primarily refers to the model's output containing leaked personal information, protected works of others, trade secrets, and similar content.
+   - **What It Is**: Large training sets and their accompanying metadata can be stolen or leaked—especially if cloud storage or annotation platforms are compromised. Please note that the risk mentioned here is different from the data breach in Risk 12. The latter primarily refers to the model's output containing leaked personal information, protected works of others, trade secrets, and similar content.
    - **Example**:   
    - **Source**:  
-     - []()
+     - [38TB of data accidentally exposed by Microsoft AI researchers(WIZ, 2023)](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers)
 
 #### B. The LLM Itself
 

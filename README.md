@@ -59,9 +59,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 4. **Inappropriate Content**  
    - **What It Is**: Inappropriate content refers to content in the training data that may be controversial, illegal, or harmful. The risks of inappropriate content stem from various sources, including but not limited to the issues outlined in Risks 1–3, as well as potential causes such as data poisoning or unreasonable data scraping practices.  
-   - **Example**:   
+   - **Example**: In 2016, Microsoft's chatbot Tay started posting hate - speech (e.g., racial and gender discrimination) soon after launch. Its training was user - interactive, and malicious users "fed" it bad info, causing much inappropriate content. 
    - **Source**:  
-     - []()
+     - [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 
 5. **Data Breach**  
    - **What It Is**: Large training sets and their accompanying metadata can be stolen or leaked—especially if cloud storage or annotation platforms are compromised. Please note that the risk mentioned here is different from the data breach in Risk 13. The latter primarily refers to the model's output containing leaked personal information, protected works of others, trade secrets, and similar content.

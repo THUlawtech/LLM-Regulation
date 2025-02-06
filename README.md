@@ -118,9 +118,9 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
 
 13. **Hallucination**  
    - **What It Is**: LLMs sometimes generate plausible-sounding but factually incorrect answers.  
-   - **Example**:   
+   - **Example**: OpenAI's audio transcription tool, Whisper, experiences "hallucinations" in high - risk situations, generating content that is not present in its training materials.  
    - **Source**:  
-     - []()
+     - [OpenAI's Whisper AI 'hallucinates' in high-risk situations(tom's guide, 2024)](https://www.tomsguide.com/ai/openais-whisper-model-is-reportedly-hallucinating-in-high-risk-situations)
 
 14. **Risks from Improper Use**  
    - **What It Is**: Malicious actors can use LLMs for phishing emails, social engineering, generating malware, or other harmful activities.  

@@ -97,24 +97,24 @@ Below is a brief overview of 18 identified risks of LLMs, grouped by four main c
      - [Hidden Backdoors in Neural Networks (Gu et al., 2017)](https://arxiv.org/abs/1708.06733)
 
 10. **Risk of Defect Propagation**  
-   - **What It Is**: Errors, biases, or vulnerabilities that appear at one stage of development can propagate and amplify in subsequent versions of a model (or downstream tasks).  
-   - **Example**: If a poorly vetted LLM is used to create training data for the next generation of models, the original issues can become more deeply ingrained.  
-   - **Source**:  
-     - [On the Dangers of Stochastic Parrots (Bender et al., 2021)](https://dl.acm.org/doi/10.1145/3442188.3445922)
+    - **What It Is**: Errors, biases, or vulnerabilities that appear at one stage of development can propagate and amplify in subsequent versions of a model (or downstream tasks).  
+    - **Example**: If a poorly vetted LLM is used to create training data for the next generation of models, the original issues can become more deeply ingrained.  
+    - **Source**:  
+      - [On the Dangers of Stochastic Parrots (Bender et al., 2021)](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 #### C. Generated Content
 
 11. **Content Safety Risk**  
-   - **What It Is**: LLMs may generate hate speech, radicalization content, or instructions for violence if prompted or misused.  
-   - **Example**: Researchers from University College London released a report stating that large language models, including OpenAI's GPT - 3.5, GPT - 4, and Meta's Llama 2, show obvious biases against women in their generated content.  
-   - **Source**:  
-     - [Large language models generate biased content, warn researchers(TechXplore, 2024)](https://techxplore.com/news/2024-04-large-language-generate-biased-content.amp)
+    - **What It Is**: LLMs may generate hate speech, radicalization content, or instructions for violence if prompted or misused.  
+    - **Example**: Researchers from University College London released a report stating that large language models, including OpenAI's GPT - 3.5, GPT - 4, and Meta's Llama 2, show obvious biases against women in their generated content.  
+    - **Source**:  
+      - [Large language models generate biased content, warn researchers(TechXplore, 2024)](https://techxplore.com/news/2024-04-large-language-generate-biased-content.amp)
 
 12. **Data Breach (via LLM)**  
-   - **What It Is**: The LLM might inadvertently reveal private or proprietary information it was trained on or that was input by other users.  
-   - **Example**: Samsung employees reportedly entered sensitive source code into ChatGPT, which then became part of the service’s broader training data.  
-   - **Source**:  
-     - [Samsung Bans Staff’s AI Use After Spotting ChatGPT Data Leak (Bloomberg, 2023)](https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak)
+    - **What It Is**: The LLM might inadvertently reveal private or proprietary information it was trained on or that was input by other users.  
+    - **Example**: Samsung employees reportedly entered sensitive source code into ChatGPT, which then became part of the service’s broader training data.  
+    - **Source**:  
+      - [Samsung Bans Staff’s AI Use After Spotting ChatGPT Data Leak (Bloomberg, 2023)](https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak)
 
 13. **Hallucination**  
    - **What It Is**: LLMs sometimes generate plausible-sounding but factually incorrect answers.  

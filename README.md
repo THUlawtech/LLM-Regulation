@@ -246,6 +246,7 @@ We sorted out some cases related to the core legal issues in the article, mainly
 |The Center for Investigative Reporting v.OpenAI|2024.06|[link](https://www.courtlistener.com/docket/68892274/the-center-for-investigative-reporting-inc-v-openai-inc/)|
 |Concord Music Group v. Anthropic|2024.06|[link](https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/)|
 |Bartz v. Anthropic|2024.08|[link](https://www.courtlistener.com/docket/69058235/bartz-v-anthropic-pbc/)|
+Thomson Reuters Enterprise Centre GmbH v. ROSS Intelligence Inc.|2025.02|[link](https://www.courtlistener.com/docket/17131648/thomson-reuters-enterprise-centre-gmbh-v-ross-intelligence-inc/)
 
 #### Copyrightability of Generated Content
 |Name|Time|Source|
